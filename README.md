@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">A passionate full-stack developer and AI student from Germany</h3>
+<h3 align="center">A passionate full-stack developer and AI engineer from Germany</h3>
 
 
 <h3 align="left">Connect with me:</h3>
