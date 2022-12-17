@@ -17,43 +17,43 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://nuxtjs.org/design-kit/colored-logo.svg" width="48" height="48" alt="Python" />
+      <a>
+        <img src="https://nuxtjs.org/design-kit/colored-logo.svg" width="48" height="48" alt="Nuxt" />
       </a>
       <br>Nuxt 3
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
       </a>
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="Jsonnet" />
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP" />
       </a>
-      <br>GCP
+      <br>Google Cloud Platform
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="48" height="48" alt="TypeScript" />
+      <a>
+        <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="48" height="48" alt="GitHub Actions" />
       </a>
       <br>GitHub Actions
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://avatars.githubusercontent.com/u/12867925?s=280&v=4" width="48" height="48" alt="JavaScript" />
+      <a>
+        <img src="https://avatars.githubusercontent.com/u/12867925?s=280&v=4" width="48" height="48" alt="Semantic Release" />
       </a>
       <br>Semantic Release
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
