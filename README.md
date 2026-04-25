@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full-stack developer and AI engineer from Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tristan-nolde-0274bb213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristan-nolde-0274bb213" height="30" width="40" /></a>&nbsp;<a href="https://www.xing.com/profile/Tristan_Nolde/web_profiles" target="_blank" rel="noreferrer"><img src="https://www.iconpacks.net/icons/2/free-xing-logo-icon-2447-thumb.png" alt="tristannolde" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/tristan-nolde-0274bb213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;<a href="https://www.xing.com/profile/Tristan_Nolde/web_profiles" target="_blank" rel="noreferrer"><img src="https://www.iconpacks.net/icons/2/free-xing-logo-icon-2447-thumb.png" alt="Xing" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
